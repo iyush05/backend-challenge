@@ -79,8 +79,9 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "priority": "HIGH",
-      ...
+      "created_at: "2024-09-11T13:09:00.564Z",
+      "updated_at": "2024-09-11T13:09:00.564Z",
+      "priority": "HIGH"
     },
     ...
   ]
@@ -99,8 +100,9 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "priority": "HIGH",
-      ...
+      "created_at: "2024-09-11T13:09:00.564Z",
+      "updated_at": "2024-09-11T13:09:00.564Z",
+      "priority": "HIGH"
     }
   }
   ```
@@ -115,7 +117,7 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
     "title": "Updated Task Title",
     "description": "Updated Task Description",
     "status": "COMPLETED",
-    "due_date": "2024-12-31T23:59:59.999Z",
+    "due_date": "2024-12-31",
     "priority": "MEDIUM"
   }
   ```
@@ -140,8 +142,9 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "priority": "HIGH",
-      ...
+      "created_at: "2024-09-11T13:09:00.564Z",
+      "updated_at": "2024-09-11T13:09:00.564Z",
+      "priority": "HIGH"
     }
   }
   ```
