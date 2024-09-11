@@ -4,6 +4,11 @@
 
 This is a Task Management API built using Hono and Prisma with Accelerate extension. The API allows you to create, retrieve, update, and delete tasks.
 
+
+## Live URL
+
+https://backend-challenge.ayushkannaujiya.workers.dev
+
 ## Prerequisites
 
 - Node.js v16 or above
@@ -163,7 +168,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or inquiries, please contact Ayush Kannaujiya at ayushkannaujiya@gmail.com
-
-## Live URL
-
-https://backend-challenge.ayushkannaujiya.workers.dev
