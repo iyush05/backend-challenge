@@ -16,8 +16,8 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/iyush05/backend-challenge.git
+    cd backend-challenge
     ```
 
 2. Install dependencies:
@@ -79,7 +79,7 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "created_at: "2024-09-11T13:09:00.564Z",
+      "created_at": "2024-09-11T13:09:00.564Z",
       "updated_at": "2024-09-11T13:09:00.564Z",
       "priority": "HIGH"
     },
@@ -100,7 +100,7 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "created_at: "2024-09-11T13:09:00.564Z",
+      "created_at": "2024-09-11T13:09:00.564Z",
       "updated_at": "2024-09-11T13:09:00.564Z",
       "priority": "HIGH"
     }
@@ -142,7 +142,7 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "description": "Task Description",
       "status": "PENDING",
       "due_date": "2024-12-31T23:59:59.999Z",
-      "created_at: "2024-09-11T13:09:00.564Z",
+      "created_at": "2024-09-11T13:09:00.564Z",
       "updated_at": "2024-09-11T13:09:00.564Z",
       "priority": "HIGH"
     }
