@@ -83,7 +83,6 @@ This is a Task Management API built using Hono and Prisma with Accelerate extens
       "updated_at": "2024-09-11T13:09:00.564Z",
       "priority": "HIGH"
     },
-    ...
   ]
   ```
 
