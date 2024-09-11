@@ -47,7 +47,7 @@ https://backend-challenge.ayushkannaujiya.workers.dev
 
 ### 1. Create a Task
 
-- **Endpoint:** `POST /tasks`
+- **Endpoint:** `POST /api/v1/tasks`
 - **Description:** Creates a new task.
 - **Request Body:**
   ```json
@@ -68,7 +68,7 @@ https://backend-challenge.ayushkannaujiya.workers.dev
 
 ### 2. Get All Tasks
 
-- **Endpoint:** `GET /tasks`
+- **Endpoint:** `GET /api/v1/tasks`
 - **Description:** Retrieves all tasks with optional query parameters.
 - **Query Parameters:**
   - `priority` (optional): Filter tasks by priority (`LOW`, `MEDIUM`, `HIGH`).
@@ -93,7 +93,7 @@ https://backend-challenge.ayushkannaujiya.workers.dev
 
 ### 3. Get a Task by ID
 
-- **Endpoint:** `GET /tasks/:id`
+- **Endpoint:** `GET /api/v1/tasks/:id`
 - **Description:** Retrieves a specific task by its ID.
 - **Response:**
   ```json
@@ -113,7 +113,7 @@ https://backend-challenge.ayushkannaujiya.workers.dev
 
 ### 4. Update a Task
 
-- **Endpoint:** `PUT /tasks/:id`
+- **Endpoint:** `PUT /api/v1/tasks/:id`
 - **Description:** Updates a specific task by its ID.
 - **Request Body:**
   ```json
@@ -134,7 +134,7 @@ https://backend-challenge.ayushkannaujiya.workers.dev
 
 ### 5. Delete a Task
 
-- **Endpoint:** `DELETE /tasks/:id`
+- **Endpoint:** `DELETE /api/v1/tasks/:id`
 - **Description:** Deletes a specific task by its ID.
 - **Response:**
   ```json
